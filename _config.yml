@@ -2,4 +2,4 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
 author: Sarah Dodson-Robinson
-description: Personal webpage
+description: Professor, Department of Physics and Astronomy, University of Delaware
