@@ -18,8 +18,8 @@ I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and 
 
 - <a href="https://www.nataliealowson.com/">Nataliea Lowson</a>, Annie Jump Cannon Postdoctoral Fellow
 - <a href="https://www.linkedin.com/in/amna-ejaz-26315a240">Amna Ejaz</a>, Postdoctoral Fellow
-- <a href="https://orcid.org/0009-0006-8550-4591">Mar$\'{i}$a Paula Silva-Ar$\'{e}$valo</a>, Graduate Student
-- <a href="https://oscarfloresgaitan.github.io/">Oscar Flores Gait$\'{a}$n</a>, Undergraduate at Universidad del Valle de Guatemala, Incoming Graduate Student (Fall 2026)
+- <a href="https://orcid.org/0009-0006-8550-4591">María Paula Silva-Arévalo</a>, Graduate Student
+- <a href="https://oscarfloresgaitan.github.io/">Oscar Flores Gaitán</a>, Undergraduate at Universidad del Valle de Guatemala, Incoming Graduate Student (Fall 2026)
 
 ## Graduate Alumni
 
@@ -38,14 +38,14 @@ I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and 
 ## Undergraduate Alumni
 
 - Jarrod Bieber, BS 2026
-- Oscar Flores Gait$\'{a}$n, 2025 Latin American summer internship program
+- Oscar Flores Gaitán, 2025 Latin American summer internship program
 - Marcela Echeverri Gallego, 2025 Latin American summer internship program
 - Maeve Owens, BS 2025
 - Ilana Lavene, BA/BS 2025
 - Andrew Fonseca, BS 2024, Postbaccalaureate 2024-2025
 - Allison Fantom, BS 2024
 - Paula Castro Nieva, 2024 Latin American summer internship program
-- Mar$\'{a}$i Silva Ar$\'{e}$valo, 2024 Latin American summer internship program
+- María Silva Arévalo, 2024 Latin American summer internship program
 - C$'{e}$esar Bustos Sanchez, 2022 Latin American summer internship program
 - Beth Clackett, BS 2022
 - Joan Caicedo Vivas, 2021 Latin American summer internship program
@@ -57,8 +57,14 @@ I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and 
 
 ## Admissions FAQ
 
-## Statement on academic boycotts
+- Are you taking new students?
 
-In 2024, the American Association of University Professors (AAUP) Committee A on Academic Freedom and Tenure<a href="https://www.aaup.org/reports-publications/aaup-policies-reports/policy-statements/statement-academic-boycotts"</a>abandoned its long-standing opposition to academic boycotts</a>. The decision was disappointing and is, in my opinion, antithetical to academic freedom.
+Maybe.
 
-<em>Note: I am making this statement of opposition to academic boycotts on behalf of myself only. My group members are free to disagree.</em>
+## Statement against academic boycotts
+
+In 2024, the American Association of University Professors (AAUP) Committee A on Academic Freedom and Tenure<a href="https://www.aaup.org/reports-publications/aaup-policies-reports/policy-statements/statement-academic-boycotts">abandoned its long-standing opposition to academic boycotts</a>. The resulting controversy was <a href="https://www.insidehighered.com/news/faculty/academic-freedom/2024/08/16/aaup-faces-criticism-reversal-academic-boycotts">documented by</a> <a href="https://www.insidehighered.com/news/faculty/academic-freedom/2024/08/12/aaup-ends-two-decade-opposition-academic-boycotts">Inside Higher Ed</a> and the <a href="https://www.chronicle.com/article/the-aaups-incoherent-new-boycott-policy">Chronicle of Higher Education</a>. The decision was disappointing, and the new boycott-friendly stance is, in my opinion, antithetical to academic freedom.
+
+I support the AAUP-UD chapter, especially its successful efforts to negotiate job security and compensation for instructional faculty. But I want to make it clear that the national AAUP leaders do not speak for me. The August 2024 <a href="https://www.aaup.org/sites/default/files/Statement%20on%20Academic%20Boycotts_2.pdf">Statement on Academic Boycotts</a> was not put to the general AAUP membership for a vote. If it had been, I would have voted against. Other dissenting academics have discussed their reasons for opposing boycotts <a href="https://www.nas.org/statement/aaup-trades-academic-freedom-for-boycotts/">here</a>, 
+
+<em>All opinions on this site are my own, and should not be interpreted as official statements on behalf of the University of Delaware. My group members are free to disagree with me.</em>
