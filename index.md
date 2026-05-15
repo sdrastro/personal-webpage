@@ -57,11 +57,11 @@ I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and 
 
 ## Admissions FAQ
 
-- Are you taking new students?
+### Are you taking new students?
 
 The answer to this question is almost always <em>maybe</em>. Although I like working with graduate students, I need to be mindful about overcommitting my time. Plus, the federal budget situation is volatile, and I don't want to end up in a situation where I take on students and then can't afford to pay them. I usually don't make a final decision about taking a new student until I read all of the applications in a given year.
 
-- I have top grades and loads of research experience. Why was my application declined?
+### I have top grades and loads of research experience. Why was my application declined?
 
 It seems like graduate admissions get more competitive every year. We always get more excellent applications than there are open spots in our program, which means we have to make hard decisions. We do our best to match prospective students with potential advisors. If you are only interested in working with one faculty member and that person's group is full, your application may be declined even if you are Einstein 2.0.
 
