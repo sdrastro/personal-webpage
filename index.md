@@ -65,7 +65,7 @@ The answer to this question is almost always <em>maybe</em>. Although I like wor
 
 It seems like graduate admissions get more competitive every year. We always get more excellent applications than there are open spots in our program, which means we have to make hard decisions. We do our best to match prospective students with potential advisors. If you are only interested in working with one faculty member and that person's group is full, your application may be declined even if you are Einstein 2.0.
 
-For best results, identify at least three potential advisors who are at least open to taking new students, even if they are not actively recruiting. Make sure you're not asking to work with someone who has retired or passed away (yest, this has happened).
+For best results, identify at least three potential advisors who are at least open to taking new students, even if they are not actively recruiting. Make sure you're not asking to work with someone who has retired or passed away (yes, this has happened).
 
 ## Statement against academic boycotts
 
