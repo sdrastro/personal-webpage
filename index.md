@@ -2,7 +2,7 @@
 title: Sarah Dodson-Robinson (Sally)
 ---
 
-__<a href="https://scholar.google.com/citations?user=QdZWonUAAAAJ">Google Scholar</a> ⬤ <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22dodson-robinson%22&sort=date%20desc%2C%20bibcode%20desc">NASA ADS</a> ⬤ <a href="https://iopscience.iop.org/book/mono/978-0-7503-2136-5">Book: <em>Origins of Giant Planets</em></a>__ 
+__<a href="https://scholar.google.com/citations?user=QdZWonUAAAAJ">Google Scholar</a> ● <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22dodson-robinson%22&sort=date%20desc%2C%20bibcode%20desc">NASA ADS</a> ● <a href="https://iopscience.iop.org/book/mono/978-0-7503-2136-5">Book: <em>Origins of Giant Planets</em></a>__ 
 
 ## Research
 
