@@ -16,7 +16,6 @@ I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and 
 - The assumption that a periodogram has a white noise background is often a dubious one, <a href="https://ui.adsabs.harvard.edu/abs/2026AJ....171..124E/abstract">but you can calculate false alarm thresholds from a red noise model</a> with <a href="https://emac.gsfc.nasa.gov/?cid=2601-013">software</a> written by postdoc Amna Ejaz.
 - Debris disk studies depend on accurate understanding of host star properties, but what if the host star is so bright that the 2MASS photometry is saturated? <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ae9f5a">Group alum Inbok Yea (PhD 2024) created new SED models for debris disk host stars that were saturated in 2MASS and updated the dust emission properties.</a>
 - <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..286H/abstract">What if the planet 55 Cnc d does not exist?</a> An audacious hypothesis advanced in a paper led by Justin Harrell (PhD 2026).
-- 
 
 ## Group members
 
