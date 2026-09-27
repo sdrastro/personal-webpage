@@ -12,14 +12,18 @@ I also collaborate with astronomers at Space Telescope Science Institute on debr
 
 I won the American Astronomical Society’s Annie Jump Cannon award in 2013 and an NSF Career Grant in 2011.
 
-#### Latest research highlight: <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..286H/abstract">What if the planet 55 Cnc d does not exist?</a>
+#### Latest research highlights:<br />
+- The assumption that a periodogram has a white noise background is often a dubious one, <a href="https://ui.adsabs.harvard.edu/abs/2026AJ....171..124E/abstract">but you can calculate false alarm thresholds from a red noise model</a> with <a href="https://emac.gsfc.nasa.gov/?cid=2601-013">software</a> written by postdoc Amna Ejaz.
+- Debris disk studies depend on accurate understanding of host star properties, but what if the host star is so bright that the 2MASS photometry is saturated? <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ae9f5a">Group alum Inbok Yea (PhD 2024) created new SED models for debris disk host stars that were saturated in 2MASS and updated the dust emission properties.</a>
+- <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..286H/abstract">What if the planet 55 Cnc d does not exist?</a> An audacious hypothesis advanced in a paper led by Justin Harrell (PhD 2026).
+- 
 
 ## Group members
 
 - <a href="https://www.nataliealowson.com/">Nataliea Lowson</a>, Annie Jump Cannon Postdoctoral Fellow
 - <a href="https://www.linkedin.com/in/amna-ejaz-26315a240">Amna Ejaz</a>, Postdoctoral Fellow
 - <a href="https://orcid.org/0009-0006-8550-4591">María Paula Silva-Arévalo</a>, Graduate Student
-- <a href="https://oscarfloresgaitan.github.io/">Oscar Flores Gaitán</a>, Undergraduate at Universidad del Valle de Guatemala, Incoming Graduate Student (Fall 2026)
+- <a href="https://oscarfloresgaitan.github.io/">Oscar Flores Gaitán</a>, Graduate Student
 
 ## Graduate Alumni
 
@@ -65,12 +69,20 @@ The answer to this question is almost always <em>maybe</em>. Although I like wor
 
 It seems like graduate admissions get more competitive every year. We always get more excellent applications than there are open spots in our program, which means we have to make hard decisions. We do our best to match prospective students with potential advisors. If you are only interested in working with one faculty member and that person's group is full, your application may be declined even if you are Einstein 2.0.
 
-For best results, identify at least three potential advisors who are at least open to taking new students, even if they are not actively recruiting. Make sure you're not asking to work with someone who has retired or passed away (yes, this has happened).
+For best results, identify at least three potential advisors who are open to taking new students, even if they are not actively recruiting. Make sure you're not asking to work with someone who has retired or passed away (yes, this has happened).
 
 ## Statement against academic boycotts
 
 In 2024, the American Association of University Professors (AAUP) Committee A on Academic Freedom and Tenure <a href="https://www.insidehighered.com/news/faculty/academic-freedom/2024/08/12/aaup-ends-two-decade-opposition-academic-boycotts">abandoned its long-standing opposition to academic boycotts</a>. The resulting controversy was documented by <a href="https://www.insidehighered.com/news/faculty/academic-freedom/2024/08/16/aaup-faces-criticism-reversal-academic-boycotts">Inside Higher Ed</a> and the <a href="https://www.chronicle.com/article/the-aaups-incoherent-new-boycott-policy">Chronicle of Higher Education</a>, among others. The AAUP decision was disappointing, and the new boycott-friendly stance is, in my opinion, antithetical to academic freedom.
 
 I support the AAUP-UD chapter, especially its successful efforts to negotiate job security and fair compensation for instructional faculty. But I want to make it clear that the national AAUP leaders do not speak for me. The August 2024 <a href="https://www.aaup.org/sites/default/files/Statement%20on%20Academic%20Boycotts_2.pdf">Statement on Academic Boycotts</a> was not put to the general AAUP membership for a vote. If it had been, I would have voted against it. Other dissenting academics, including a <a href="https://www.insidehighered.com/opinion/views/2024/09/06/what-stake-academic-boycott-opinion">former president of the AAUP</a>, have written in detail about the <a href="https://www.nas.org/statement/aaup-trades-academic-freedom-for-boycotts/">reasons</a> <a href="https://www.insidehighered.com/opinion/views/2024/09/12/academic-boycotts-cannot-become-new-normal-opinion">for</a> <a href="https://fathomjournal.org/the-core-problems-with-boycott-and-divestment/">opposing</a> <a href="https://blogs.timesofisrael.com/the-case-against-academic-boycott/">academic</a> <a href="https://www.chronicle.com/article/academic-boycotts-hurt-dissidents-most">boycotts</a>.
+
+### Update September 2026
+
+I have notified the AAUP-UD that I am terminating my membership. The catalyst for my departure was the <a href="https://www.insidehighered.com/news/government/politics-elections/2026/07/30/aaup-embraces-political-role-candidate-endorsements">official endorsement of Abdul Al-Sayed's Senate campaign</a>. First of all, how is the AAUP supposed to protect the academic freedom of all faculty members if they don't stay politically neutral? More importantly, Al-Sayed has campaigned with Hasan Piker, who once said <a href="https://www.reuters.com/fact-check/hasan-piker-911-remark-misattributed-michigans-el-sayed-2026-08-14/">America deserved 9/11</a> and has <a href="https://www.algemeiner.com/2026/04/14/anti-israel-streamer-hasan-piker-reaffirms-hamas-support/">publicly expressed support for Hamas</a>. The two have appeared together <em>on college campuses</em>, doing joint events at <a href="https://www.detroitnews.com/picture-gallery/media/photo/2026/04/07/u-s-senate-candidate-abdul-el-sayed-speaks-to-michigan-students-in-ann-arbor/89509695007/">University of Michigan</a> and <a href="https://statenews.com/multimedia/abdul-el-sayed-holds-rally-on-campus">Michigan State</a>. 
+
+I was in college when 9/11 happened; in fact, I learned about it immediately after entering my 9:00 AM class. When I saw the numb looks of horror on my classmates' faces, I immediately knew something terrible had happened. Social media and smartphones didn't exist yet, so the information available was still fragmentary. Some people had heard about plane crashes on the radio, while others had been watching the news immediately before class. The true scope and motivation of the attack would unfold throughout the day. When classes resumed the following week, there was a steady stream of absences from students who were going to funerals of family members or friends who died the attacks.
+
+I will never forget the horror of 9/11, and under no circumstances will I allow an organization whose leaders casually brush off terror support to represent me. As much as I value the good work that our local union is doing on contract negotiations, I don't want to be associated with the national union, which apparently thinks it's fine to bring terror supporters to campaign events held on university campuses. 
 
 <em>All opinions on this site are my own, and should not be interpreted as official statements on behalf of the University of Delaware. My group members are free to disagree with me.</em>
